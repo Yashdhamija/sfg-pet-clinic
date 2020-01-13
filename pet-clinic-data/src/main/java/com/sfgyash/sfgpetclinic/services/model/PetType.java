@@ -1,6 +1,6 @@
 package com.sfgyash.sfgpetclinic.services.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String petType;
 

@@ -1,4 +1,4 @@
-package com.sfgyash.sfgpetclinic.services.model;
+package com.sfgyash.sfgpetclinic.model;
 
 import java.io.Serializable;
 

@@ -1,7 +1,7 @@
-package com.sfgyash.sfgpetclinic.services.services.map;
+package com.sfgyash.sfgpetclinic.services.map;
 
-import com.sfgyash.sfgpetclinic.services.model.Pet;
-import com.sfgyash.sfgpetclinic.services.services.CrudService;
+import com.sfgyash.sfgpetclinic.model.Pet;
+import com.sfgyash.sfgpetclinic.services.CrudService;
 
 import java.util.Set;
 

@@ -1,6 +1,6 @@
-package com.sfgyash.sfgpetclinic.services.services;
+package com.sfgyash.sfgpetclinic.services;
 
-import com.sfgyash.sfgpetclinic.services.model.Owner;
+import com.sfgyash.sfgpetclinic.model.Owner;
 
 
 public interface OwnerService extends CrudService<Owner, Long> {

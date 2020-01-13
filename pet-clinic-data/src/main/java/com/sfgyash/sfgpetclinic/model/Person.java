@@ -1,4 +1,4 @@
-package com.sfgyash.sfgpetclinic.services.model;
+package com.sfgyash.sfgpetclinic.model;
 
 public class Person extends BaseEntity {
     private String firstname;

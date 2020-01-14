@@ -1,11 +1,11 @@
 package com.sfgyash.sfgpetclinic.services.map;
 
 import com.sfgyash.sfgpetclinic.model.Vet;
-import com.sfgyash.sfgpetclinic.services.CrudService;
+import com.sfgyash.sfgpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {

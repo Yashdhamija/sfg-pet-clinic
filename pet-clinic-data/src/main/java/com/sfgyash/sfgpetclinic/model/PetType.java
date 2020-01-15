@@ -2,13 +2,13 @@ package com.sfgyash.sfgpetclinic.model;
 
 public class PetType extends BaseEntity {
 
-    private String petType;
+    private String name;
 
-    public String getPetType() {
-        return petType;
+    public String getName() {
+        return name;
     }
 
-    public void setPetType(String petType) {
-        this.petType = petType;
+    public void setName(String name) {
+        this.name = name;
     }
 }

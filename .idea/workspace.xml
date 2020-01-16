@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d3917a-ecd0-4849-8223-bb91f5fccad6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/sfgyash/sfgpetclinic/model/Pet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLQBRgu5GqekwpE5uR0o0ZZLju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/pet-clinic-web/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main" />
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main\resources\templates" />
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main\resources\static\resources" />
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-pet-clinic\pet-clinic-web\src\main\resources\static\resources\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SfgPetClinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pet-clinic-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sfgyash.sfgpetclinic.SfgPetClinicApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.096861474" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d3917a-ecd0-4849-8223-bb91f5fccad6" name="Default Changelist" comment="" />
+      <created>1578926259461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578926259461</updated>
+      <workItem from="1578926262374" duration="14266000" />
+      <workItem from="1579019886058" duration="6753000" />
+      <workItem from="1579099310282" duration="1704000" />
+      <workItem from="1579102799905" duration="543000" />
+      <workItem from="1579103358949" duration="14228000" />
+      <workItem from="1579207917962" duration="2202000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit, closes #1">
+      <created>1578928373231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578928373231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="after committing maven release - tag 0.0.2">
+      <created>1578929817913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578929817913</updated>
+    </task>
+    <task id="LOCAL-00003" summary="POJO data models, closes #2">
+      <created>1578931474577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578931474577</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creating interfaces for services. closes #5">
+      <created>1578932173148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578932173148</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added base entity (for serializable id for data models). closes #10">
+      <created>1578932795103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578932795103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor interfaces to common crud interface. closes #11">
+      <created>1578942958801</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578942958801</updated>
+    </task>
+    <task id="LOCAL-00007" summary="implements map based service. closes #6">
+      <created>1578945615242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578945615242</updated>
+    </task>
+    <task id="LOCAL-00008" summary="implemented index page and controller for index view. closes #8">
+      <created>1578950279067</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578950279067</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created vet index page and controller, closes #7">
+      <created>1578951918739</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578951918739</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created vet owner page and controller, closes #13">
+      <created>1578952294369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578952294369</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added bootstrap to load data. closes #14">
+      <created>1579021169201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021169202</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added spring config for services map impl. closes #22">
+      <created>1579021811152</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021811152</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated owner controller and owner index.html to list owners using ownerService. closes #16">
+      <created>1579022798853</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579022798853</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated vet controller and vet index.html to list vets using vetService. closes #15">
+      <created>1579028373488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579028373488</updated>
+    </task>
+    <task id="LOCAL-00015" summary="auto id generation for map based impl. closes #23">
+      <created>1579029729963</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579029729963</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added static resources. closes #17">
+      <created>1579104802432</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579104802432</updated>
+    </task>
+    <task id="LOCAL-00017" summary="copied template/fragments. closes #18">
+      <created>1579105481283</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579105481283</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added wro4j plugin and config from pet clinic master. closes #24">
+      <created>1579106398627</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579106398627</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added layout index page. close #19">
+      <created>1579106731630</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579106731630</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed i18n. close #25">
+      <created>1579107463778</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579107463778</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added owners layout. closes #20">
+      <created>1579112604127</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1579112604127</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added vets layout. closes #21">
+      <created>1579112899427</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1579112899427</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added visit entity, update owner with pet relationsihp. closes #26">
+      <created>1579114284155</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1579114284155</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added speciality entity. closes #27">
+      <created>1579114562574</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1579114562574</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added contact info to owners. closes #28">
+      <created>1579115788733</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1579115788733</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added pet type service map iml. closes #29">
+      <created>1579116259407</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1579116259407</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added pet types by bootstrap  startup, closes #32">
+      <created>1579116833067</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579116833068</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added pets and contact info to owners on startup. closes #33">
+      <created>1579118945011</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579118945011</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add specialities map impl. closes #31">
+      <created>1579119497284</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1579119497284</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add specialities to vets on startup. closes #34">
+      <created>1579124688128</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1579124688128</updated>
+    </task>
+    <task id="LOCAL-00031" summary="updated base entity with jpa annotation, auto id generation. closes #35">
+      <created>1579209419373</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1579209419373</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="implements map based service. closes #6" />
+    <MESSAGE value="implemented index page and controller for index view. closes #8" />
+    <MESSAGE value="created vet index page and controller, closes #7" />
+    <MESSAGE value="created vet owner page and controller, closes #13" />
+    <MESSAGE value="added bootstrap to load data. closes #14" />
+    <MESSAGE value="added spring config for services map impl. closes #22" />
+    <MESSAGE value="updated owner controller and owner index.html to list owners using ownerService. closes #16" />
+    <MESSAGE value="updated vet controller and vet index.html to list vets using vetService. closes #15" />
+    <MESSAGE value="auto id generation for map based impl. closes #23" />
+    <MESSAGE value="added static resources. closes #17" />
+    <MESSAGE value="copied template/fragments. closes #18" />
+    <MESSAGE value="added wro4j plugin and config from pet clinic master. closes #24" />
+    <MESSAGE value="added layout index page. close #19" />
+    <MESSAGE value="fixed i18n. close #25" />
+    <MESSAGE value="added owners layout. closes #20" />
+    <MESSAGE value="added vets layout. closes #21" />
+    <MESSAGE value="added visit entity, update owner with pet relationsihp. closes #26" />
+    <MESSAGE value="added speciality entity. closes #27" />
+    <MESSAGE value="added contact info to owners. closes #28" />
+    <MESSAGE value="added pet type service map iml. closes #29" />
+    <MESSAGE value="added pet types by bootstrap  startup, closes #32" />
+    <MESSAGE value="added pets and contact info to owners on startup. closes #33" />
+    <MESSAGE value="add specialities map impl. closes #31" />
+    <MESSAGE value="add specialities to vets on startup. closes #34" />
+    <MESSAGE value="updated base entity with jpa annotation, auto id generation. closes #35" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated base entity with jpa annotation, auto id generation. closes #35" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578949275935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578949275935" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1579124548500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579124548500" />
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578928279117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578928279117" />
+    <state x="537" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578949077213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578949077213" />
+    <state x="743" y="380" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579027370599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="380" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579027370599" />
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578926506443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578926506443" />
+    <state x="424" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579122978553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579122978553" />
+    <state x="459" y="115" key="CommitChangelistDialog2" timestamp="1579209418804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="459" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579209418804" />
+    <state width="1668" height="292" key="GridCell.Tab.0.bottom" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.0.center" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.0.left" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.0.right" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.1.bottom" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.1.center" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.1.left" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state width="1668" height="292" key="GridCell.Tab.1.right" timestamp="1579210940985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1668" height="292" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210940985" />
+    <state x="540" y="256" key="IDE.errors.dialog" timestamp="1579103834560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="256" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579103834560" />
+    <state x="574" y="186" key="Registry" timestamp="1579102391997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="186" key="Registry/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579102391997" />
+    <state x="648" y="455" key="ReplaceDuplicatesPrompt" timestamp="1578944551133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="455" key="ReplaceDuplicatesPrompt/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578944551133" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1579103345790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579103345790" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579209420568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579209420568" />
+    <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1578928100079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578928100079" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579207921228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579207921228" />
+    <state x="731" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579210085539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579210085539" />
+    <state x="690" y="276" key="extract.method.dialog" timestamp="1579123308138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579123308138" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1578944491030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578944491030" />
+    <state x="342" y="223" key="new project wizard" timestamp="1578926306647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578926306647" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1578929492782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578929492782" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579103717463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579103717463" />
+  </component>
+</project>
